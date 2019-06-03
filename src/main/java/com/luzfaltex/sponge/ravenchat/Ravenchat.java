@@ -12,7 +12,7 @@ import org.spongepowered.api.plugin.Plugin;
         description = "A feature-parity remake of VentureChat by Aust1n46 for use on Sponge",
         url = "https://github.com/ravenrockrp/RavenChat",
         authors = {
-                "Foxtrek64"
+                "Foxtrek_64"
         }
 )
 public class Ravenchat {
