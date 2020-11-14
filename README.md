@@ -9,7 +9,6 @@ A feature-parity remake of VentureChat by Aust1n46 for use on Sponge. Bungeecord
 * [ ] Granular channel permissions
 * [ ] Channel distances
 * [ ] Channel cooldowns
-* [ ] ~~BungeeCord Channels
 * [ ] [GildedEmpire](https://github.com/ravenrockrp/GildedEmpire) channels
 * [ ] [Titles](https://github.com/ravenrockrp/Titles) integration
 * [ ] Colors! Hex or color codes supported
